@@ -1,0 +1,21 @@
+Create new branch:
+git checkout -b branch-name master
+
+
+git branch -D name
+
+git checkout
+
+git checkout -b dev name
+
+
+git branch -D new-branch
+
+
+git branch (check branch)
+
+
+
+
+
+
