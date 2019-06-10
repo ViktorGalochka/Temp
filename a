@@ -14,6 +14,44 @@ git branch -D new-branch
 
 git branch (check branch)
 
+ git push origin "develop"
+
+git log
+
+
+
+
+Work in trello
+
+
+                            commits
+
+
+1)fix- feat- wip-(Work in progress)
+
+
+2) (project name): Task1
+
+3) html/typescript
+
+4) git commit -m "I fixed in project (Angular pannel) in task in tello task-326 in one ts file"
+
+
+
+
+
+Merge commit:
+
+Нужно быть там, где коммиты 
+
+git log
+
+git rebase -i HEAD~2             2-кол-во коммитов 
+
+
+
+
+
 
 
 
